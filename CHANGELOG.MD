@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.6 2026-02-11
+### Changed
+* Rename organization to `nmi-agro`
+
 ## v1.1.5 2025-09-18
 ### Security
 * Patch for CVE-2025-58751
@@ -32,4 +36,4 @@
 * Changed all documented `@alpha` release stages changes to `@public`
 
 ## v1.0.0 2024-04-15
-First stable release! From now on changes to the `fpr-td-gen` will be documented in this changelog and at [GitHub Releases](https://github.com/AgroCares/fpr-td-gen/releases)
+First stable release! From now on changes to the `fpr-td-gen` will be documented in this changelog and at [GitHub Releases](https://github.com/nmi-agro/fpr-td-gen/releases)
