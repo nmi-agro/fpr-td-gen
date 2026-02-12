@@ -20,7 +20,7 @@ npm install @nmi-agro/fpr-td-gen
 ```
 
 ## Documentation
-The documentation of the package can be found [here](https://agrocares.github.io/fpr-td-gen/)
+The documentation of the package can be found [here](https://nmi-agro.github.io/fpr-td-gen/)
 
 
 ## Usage
@@ -62,7 +62,7 @@ generator.loadFromDisk('path/to/file.json')
 ```
 
 ## Contributing
-You can contribute by adding or improving translations and by reporting or fixing bugs at the [FPR-TD-GEN github](https://github.com/AgroCares/fpr-td-gen/)
+You can contribute by adding or improving translations and by reporting or fixing bugs at the [FPR-TD-GEN github](https://github.com/nmi-agro/fpr-td-gen/)
 
 ### Translations
 Ideally the package works for the [24 languages of the EU](https://european-union.europa.eu/principles-countries-history/languages_en)
@@ -94,10 +94,10 @@ Questions look like this and new translations can simply be added by adding new 
 Translations for tasks can be done in a similar  fashion, requiring a translation of the property 'taskName'. The properties 'taskDetails' and 'taskDescription' are optional.
 
 ### Bugs
-If you find a bug, please report it at https://github.com/AgroCares/fpr-td-gen/issues
+If you find a bug, please report it at https://github.com/nmi-agro/fpr-td-gen/issues
 
 ## License
 Created by [Nutriënten Management Instituut](https://www.nmi-agro.nl)
 Licensed under EUPL-1.2 ([European Union Public Licence V. 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12))
-Source code available at https://github.com/AgroCares/fpr-td-gen
+Source code available at https://github.com/nmi-agro/fpr-td-gen
 ![fpr-td-gen](logo_fpr_td_gen.png)

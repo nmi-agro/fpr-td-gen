@@ -6,8 +6,8 @@
  *
  * Created by Nutriënten Management Instituut (www.nmi-agro.nl)
  * Licensed under EUPL-1.2 (European Union Public Licence V. 1.2; https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
- * Source code available at https://github.com/AgroCares/fpr-td-gen
- * In case you find a bug, please report at https://github.com/AgroCares/fpr-td-gen/issues
+ * Source code available at https://github.com/nmi-agro/fpr-td-gen
+ * In case you find a bug, please report at https://github.com/nmi-agro/fpr-td-gen/issues
  *
  * @public
  * @packageDocumentation
