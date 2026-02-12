@@ -6,6 +6,7 @@
 * Patch for CVE-2025-56200
 * Patch for CVE-2025-13465
 * Patch for CVE-2025-64718
+* Added explicit read permissions for workflows
 
 ## v1.1.6 2026-02-11
 ### Changed
