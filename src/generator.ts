@@ -16,7 +16,7 @@ class Generator {
   * @returns A Generator class with the functions {@link getNextQuestion} and {@link getTechnicalDocumentation}
   * @public
   */
-  packageVersion = '1.1.6'
+  packageVersion = '1.1.7'
   locale: localesType
   fprVersion: fprVersionType
   pfcDesignation: pfcType = undefined
