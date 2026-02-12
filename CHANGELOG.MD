@@ -5,6 +5,7 @@
 * Patch for CVE-2025-12758
 * Patch for CVE-2025-56200
 * Patch for CVE-2025-13465
+* Patch for CVE-2025-64718
 
 ## v1.1.6 2026-02-11
 ### Changed
